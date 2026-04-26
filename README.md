@@ -1,6 +1,7 @@
 <div align="center"> 
-  <!-- <img src="empty for now" width="25%" align="right" /> 
-  <img src=" empty for now" width="70%" />  -->
+  <!-- <img src="empty for now" width="25%" align="right" />  -->
+  
+  <img src="assets/mini-graphics-cats-658895.gif" /> Hello and welcome
   <br><br> 
       <pre> 
         💼 UNCC @ Computer Science • Programming • Cybersecurity focus 
