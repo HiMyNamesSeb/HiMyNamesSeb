@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center"> 
+  <!-- <img src="empty for now" width="25%" align="right" /> 
+  <img src=" empty for now" width="70%" />  -->
+  <br><br> 
+      <pre> 
+        💼 UNCC @ Computer Science • Programming • Cybersecurity focus 
+        💻 Java • Python • Lua • HTML/CSS • Bash basics 
+        📖 Data structures • OOP • Problem solving • System fundamentals 
+        🛠️ Hardware repair • Soldering • Troubleshooting 
+        🎮 games • anime • music • code
+      </pre> 
+    <br> 
+      <!-- <img src=" blank for now " height="40" /> -->
+  <br><br>
 
-<!--
-**HiMyNamesSeb/HiMyNamesSeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Static Badge](https://img.shields.io/badge/check_out_my-site-blue?style=flat&link=https%3A%2F%2Fhimynamesseb.github.io%2F)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
