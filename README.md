@@ -14,7 +14,7 @@
       <!-- <img src=" blank for now " height="40" /> -->
   <br><br>
 
-![Static Badge](https://img.shields.io/badge/check_out_my-site-blue?style=flat&link=https%3A%2F%2Fhimynamesseb.github.io%2F)
+![Static Badge](https://img.shields.io/badge/check_out_my-website-blue?style=flat&link=https%3A%2F%2Fhimynamesseb.github.io%2F)
 
 </div>
 
